@@ -5373,4 +5373,9 @@
 #include "interface\fonts\tiny_unicode.dm"
 #include "interface\fonts\vcr_osd_mono.dm"
 #include "interface\skin.dmf"
+#include "modular_dc\code\datums\headshot.dm"
+#include "modular_dc\code\modules\client\preferences\flavor.dm"
+#include "modular_dc\code\modules\jobs\job_types\_job.dm"
+#include "modular_dc\code\modules\mob\living\living_defines.dm"
+#include "modular_dc\code\modules\mob\living\living_verbs.dm"
 // END_INCLUDE
